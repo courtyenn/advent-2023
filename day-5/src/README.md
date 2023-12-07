@@ -1,0 +1,1 @@
+- Next time, increment currentRange (# of ranges.length)
